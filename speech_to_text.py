@@ -17,7 +17,7 @@ with sr.Microphone() as source:
 			t=1
 
 		except:
-			print('Not understable')
+			print('Not understandable')
 			print('Try again')
 			t==0
 
