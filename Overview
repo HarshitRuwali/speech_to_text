@@ -1,0 +1,5 @@
+Here we are using a python code to take a voice as input and then convert it into a text file and append it into a txt file named output.
+
+Along with printing the speech input in the console output too.
+
+Note: The output.txt file should be in the same directory as of the python code. 
