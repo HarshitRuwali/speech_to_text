@@ -1,6 +1,9 @@
 
 For mac users:
-  On OS X, install PortAudio using Homebrew: brew install portaudio.  
-  Then, install PyAudio using Pip: pip install pyaudio.
-  Then you have to install SpeechRecognition using: pip install SpeechRecognition.
-  Since I am using an google API install: pip3 install google-api-python-client
+  Open terminal or your python shell and proceed. 
+    Install PortAudio using Homebrew: brew install portaudio.  
+    Then, install PyAudio using Pip: pip install pyaudio.
+    Then you have to install SpeechRecognition using: pip install SpeechRecognition.
+    Since I am using an google API install: pip3 install google-api-python-client.
+
+Note: This is all for Python3 only. Library names may differ in Python2. Just check which Python version you are using.
